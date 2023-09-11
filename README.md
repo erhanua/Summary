@@ -1,5 +1,6 @@
-<span style="background-color: yellow">
+
 # *Summary*
+---
 
 ## What is Markdown?
 Imagine you're writing a letter and you want some words to stand out. Maybe you want a title to be big and bold, or you want to emphasize certain words by making them italic. In the world of computers and the internet, we often need a way to style our text without using complicated tools or software.
@@ -16,10 +17,9 @@ In Markdown, the symbol used to create a heading is the hash (`#`). The number o
 * `##` creates a level 2 heading (equivalent to an `<h2>` tag in HTML).
 + `###` creates a level 3 heading, and so on.
 
-   ### How many do you need to create the largest heading?
+ >### How many do you need to create the largest heading?
 To create the largest heading (equivalent to an `<h1>` tag in HTML), you need 1 hash symbol (`#`).
-
-  ### How many do you need to create the smallest heading?
+ >### How many do you need to create the smallest heading?
 To create the smallest heading (equivalent to an `<h6>` tag in HTML), you need 6 hash symbols (`######`).
 
 ## Emphasizing Text in Markdown
@@ -40,8 +40,12 @@ To create a link in Markdown, use the following format:
 ## What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 To create an unordered list in Markdown, you can use:
 
-1. Hyphen (`-`)
-2. Plus (`+`)
-3. Asterisk (`*`)
+
+| 1 | Hyphen    | (`-`) |
+| 2 | Plus      | (`+`) |
+| 3 | Asterisk  | (`*`) |
+
+
+
 
 
