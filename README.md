@@ -17,9 +17,9 @@ In Markdown, the symbol used to create a heading is the hash (`#`). The number o
 * `##` creates a level 2 heading (equivalent to an `<h2>` tag in HTML).
 + `###` creates a level 3 heading, and so on.
 
- > ### How many do you need to create the largest heading?
+ >### How many do you need to create the largest heading?
 To create the largest heading (equivalent to an `<h1>` tag in HTML), you need 1 hash symbol (`#`).
- > ### How many do you need to create the smallest heading?
+ >### How many do you need to create the smallest heading?
 To create the smallest heading (equivalent to an `<h6>` tag in HTML), you need 6 hash symbols (`######`).
 
 ## Emphasizing Text in Markdown
