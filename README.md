@@ -41,6 +41,7 @@ To create a link in Markdown, use the following format:
 To create an unordered list in Markdown, you can use:
 
 
+| --|:-------:  | -----:|
 | 1 | Hyphen    | (`-`) |
 | 2 | Plus      | (`+`) |
 | 3 | Asterisk  | (`*`) |
