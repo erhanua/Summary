@@ -39,12 +39,12 @@ To create a link in Markdown, use the following format:
 
 ## What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 To create an unordered list in Markdown, you can use:
-
 | No | Symbol   | Character |
 |----|----------|-----------|
-| 1  | Hyphen   | (`-`)     |
-| 2  | Plus     | (`+`)     |
-| 3  | Asterisk | (`*`)     |
+| 1  | Hyphen   | `-`       |
+| 2  | Plus     | `+`       |
+| 3  | Asterisk | `*`       |
+
 
 
 
